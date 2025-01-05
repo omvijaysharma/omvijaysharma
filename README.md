@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is vijay. you can call me om</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -14,10 +14,8 @@
 
 ###
 
-<video width="600" controls>
-  <source src="video_20241208_170313.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="right" src="https://profile-counter.glitch.me/omvijaysharma/count.svg?"  />
+
 ###
 
 <div align="left">
@@ -29,7 +27,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://images.app.goo.gl/s3mTsSCzfyUwdbSp7"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
