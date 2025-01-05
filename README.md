@@ -24,13 +24,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="src/ironManWallpaper.jpg"  />
-
-###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/omvijaysharma/omvijaysharma/output/snake.svg" alt="Snake animation" />
 
