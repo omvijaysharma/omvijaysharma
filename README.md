@@ -15,4 +15,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omvijaysharma&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true" height="100" alt="activity-graph graph"  />
 </div>
 
-<img align="right" src="https://profile-counter.glitch.me/omvijaysharma/count.svg?"  />
+<img align="center" src="https://profile-counter.glitch.me/omvijaysharma/count.svg?"  />
