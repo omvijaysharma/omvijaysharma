@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Vijay || Om</h2>
 
-<!-- Horizontal Line for Separation -->
 ---
 
 <!-- Snake Animation -->
@@ -30,7 +29,16 @@
 
 ---
 
-<!-- Profile Counter with Enhanced Styling -->
+<!-- Profile Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omvijaysharma&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+</p>
+
+---
+
+<!-- Instagram Link as Button -->
+<p align="center">
+  <a href="https://www.instagram.com/om.vijay.sharma/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" />
+  </a>
 </p>
