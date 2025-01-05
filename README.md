@@ -30,7 +30,7 @@
 
 ---
 
-<!-- Profile Counter -->
+<!-- Profile Counter with Enhanced Styling -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/omvijaysharma/count.svg?" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=omvijaysharma&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
