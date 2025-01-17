@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omvijaysharma&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=omvijaysharma&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="Streak Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omvijaysharma&theme=dracula&hide_border=true" height="150" alt="Streak Graph" />
   
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app?username=omvijaysharma&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="150" alt="Trophy Graph" />
