@@ -11,14 +11,12 @@
 
 <!-- GitHub Stats, Languages, Streak, Trophies, and Activity Graph -->
 <div align="center">
+
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=omvijaysharma&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="Stats Graph" />
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omvijaysharma&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
-  
-  <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=omvijaysharma&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
   
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app?username=omvijaysharma&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="150" alt="Trophy Graph" />
