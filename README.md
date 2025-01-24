@@ -1,13 +1,11 @@
 <h2 align="left">Hi 👋! My name is vijay</h2>
 
----
 
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/omvijaysharma/omvijaysharma/output/snake.svg" alt="Snake animation" />
 </p>
 
----
 
 <!-- GitHub Stats, Languages, Streak, Trophies, and Activity Graph -->
 <div align="center">
@@ -25,14 +23,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omvijaysharma&radius=16&theme=nord&area=true&hide_border=true" height="150" alt="Activity Graph" />
 </div>
 
----
 
 <!-- Profile Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omvijaysharma&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
----
 
 <!-- Instagram Link as Button -->
 <p align="center">
