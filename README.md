@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is vijay</h2>
+<h2 align="left">Hi 👋! My name is Vijay Sharma</h2>
 
 
 <!-- Snake Animation -->
