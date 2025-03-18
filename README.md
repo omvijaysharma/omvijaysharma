@@ -1,7 +1,7 @@
 ### 🔥 **Hi there! I'm Vijay Sharma** 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Part+time+programer;Creative+thinks;Tech+Explorer+%26+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Part+time+programer;Creative+thinking;Tech+Explorer+%26+Learner" alt="Typing Animation" />
 </p>
 
 ---
