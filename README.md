@@ -1,14 +1,14 @@
 ### 🔥 **Hi there! I'm Vijay Sharma** 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Aspiring+Game+Developer;Creative+Problem+Solver;Tech+Explorer+%26+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Part+time+programer;Creative+thinks;Tech+Explorer+%26+Learner" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🔥 **About Me**
 - 💻 Passionate about coding, app development, and creative problem-solving.  
-- 🎯 Currently exploring **HTML**, **CSS**, **JavaScript**, and **Python**.  
+- 🎯 Currently exploring **HTML**, **CSS**, **JavaScript**,**Csharp**,**GDscript**, and **Python**.  
 - 🎮 Aspiring to create engaging mobile games for the **Play Store**.  
 - 📱 Developing on **Android 8** with my **Vivo** device.  
 - 🌱 Continuously improving my coding skills and learning new technologies.  
