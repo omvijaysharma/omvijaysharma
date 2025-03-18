@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Welcome to My World! 🌍</h1>
+### 🔥 **Hi there! I'm Vijay Sharma** 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Hi+there!+I'm+Vijay+Sharma;Aspiring+Game+Developer;Creative+Problem+Solver;Tech+Explorer+%26+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Aspiring+Game+Developer;Creative+Problem+Solver;Tech+Explorer+%26+Learner" alt="Typing Animation" />
 </p>
 
 ---
@@ -50,13 +50,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" />
   </a>
 </p>
-
----
-
-## 🚧 **Ongoing Goals**
-- 🔹 Master advanced **JavaScript** concepts.  
-- 🔹 Build and publish a **2D/3D game** on the **Play Store**.  
-- 🔹 Explore more powerful **game engines** like **Godot** and **GDevelop**.  
 
 ---
 
