@@ -50,5 +50,3 @@
 </p>
 
 ---
-
-💬 **If you have any advice, ideas, or projects — feel free to reach out!**
