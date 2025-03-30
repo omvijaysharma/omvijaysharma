@@ -27,22 +27,16 @@
 </div>
 
 ---
-
-## 🐍 **Fun Animation**
 <p align="center">
   <img src="https://raw.githubusercontent.com/omvijaysharma/omvijaysharma/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
-
-## 👥 **Profile Counter**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omvijaysharma&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views Counter" />
 </p>
 
 ---
-
-## 📲 **Connect with Me**
 <p align="center">
   <a href="https://www.instagram.com/om.vijay.sharma/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" />
