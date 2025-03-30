@@ -5,7 +5,8 @@
 </p>
 - 💻 Passionate about coding, app development, and creative problem-solving.  
 - 🎯 Currently exploring **HTML**, **CSS**, **JavaScript**, **Csharp**, **GDscript**, and **Python**.
-- 🌱 Continuously improving my coding skills and learning new technologies.  
+- 🌱 Continuously improving my coding skills and learning new technologies.
+__________
 <div align="center">
 
   <!-- GitHub Stats -->
