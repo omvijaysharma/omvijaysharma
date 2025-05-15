@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=440&lines=Part+time+programer;Creative+thinking;Tech+Explorer+%26+Learner" alt="Typing Animation" />
 </p>
 - 💻 Passionate about coding, app development, and creative problem-solving.  
-- 🎯 Currently exploring **HTML** , **CSS**, **JavaScript**, **Csharp**, **GDscript**, and **Python**.
+- 🎯 Currently exploring HTML, CSS, JavaScript, GDscript, and Python.
 - 🌱 Continuously improving my coding skills and learning new technologies.
 
 ___
