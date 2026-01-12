@@ -1,11 +1,4 @@
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=omvijaysharma&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omvijaysharma&layout=compact&langs_count=8&theme=dark&hide_border=true" height="150" alt="Most Used Languages" />
-  
+<div align="center">  
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omvijaysharma&theme=react-dark&radius=12&area=true&hide_border=true" height="150" alt="GitHub Activity Graph" />
 </div>
